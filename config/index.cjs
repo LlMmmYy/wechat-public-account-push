@@ -5,7 +5,7 @@
  * 如若想使用更多功能，请查考文档中的 【3. config参数说明】 
  * 自行添加属性，以支持更多个性化功能
  */
-const USER_CONFIG = {
+const SER_CONFIG = {
 
   // 使用微信测试号：公众号APP_ID
   APP_ID: 'wxf2f598f593aeaf5f',
@@ -23,7 +23,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'ojnnx6uV30r4GAZ700DjfKBVUCcw',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '	F1tTw3t49w0wSdl146IlHwTtog_7QEx281-cc0dCUMk',
+      useTemplateId: 'F1tTw3t49w0wSdl146IlHwTtog_7QEx281-cc0dCUMk',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '07-05',
       festivals: [
